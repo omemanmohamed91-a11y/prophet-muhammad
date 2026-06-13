@@ -1,0 +1,25 @@
+{
+  "name": "prophet-muhammad",
+  "version": "1.0.0",
+  "description": "موقع شامل عن سيرة رسول الله محمد صلى الله عليه وسلم",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "محمد",
+    "النبي",
+    "رسول الله",
+    "سيرة",
+    "معجزات",
+    "حديث",
+    "إسلام"
+  ],
+  "author": "omemanmohamed91",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omemanmohamed91-a11y/prophet-muhammad.git"
+  }
+}
